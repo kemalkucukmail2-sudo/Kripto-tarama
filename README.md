@@ -1,5 +1,3 @@
-# Kripto-tarama
-
 name: Binance Spot Scanner
 
 on:
